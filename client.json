@@ -1,0 +1,13 @@
+{
+  "client_id": "https://matt-payne.github.io/upwork-bot-client/client.json",
+  "client_name": "Upwork Bot (personal)",
+  "client_uri": "https://matt-payne.github.io/upwork-bot-client/",
+  "redirect_uris": [
+    "http://localhost:9247/api/upwork/callback",
+    "http://localhost:3000/api/upwork/callback",
+    "http://localhost:8765/callback"
+  ],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
