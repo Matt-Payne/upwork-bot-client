@@ -5,7 +5,8 @@
   "redirect_uris": [
     "http://localhost:9247/api/upwork/callback",
     "http://localhost:3000/api/upwork/callback",
-    "http://localhost:8765/callback"
+    "http://localhost:8765/callback",
+    "https://matt-payne.github.io/upwork-bot-client/callback"
   ],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
