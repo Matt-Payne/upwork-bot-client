@@ -3,7 +3,6 @@
   "client_name": "Upwork Bot (personal)",
   "client_uri": "https://matt-payne.github.io/upwork-bot-client/",
   "redirect_uris": [
-    "https://nichelle-overvigorous-reyna.ngrok-free.dev/api/upwork/callback",
     "http://localhost:9247/api/upwork/callback",
     "http://localhost:3000/api/upwork/callback",
     "http://localhost:8765/callback"
