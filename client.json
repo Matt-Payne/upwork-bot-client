@@ -5,8 +5,7 @@
   "redirect_uris": [
     "http://localhost:9247/api/upwork/callback",
     "http://localhost:3000/api/upwork/callback",
-    "http://localhost:8765/callback",
-    "https://sarai-unconvulsive-rely.ngrok-free.dev/api/upwork/callback"
+    "http://localhost:8765/callback"
   ],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
